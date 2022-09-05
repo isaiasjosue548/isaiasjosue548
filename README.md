@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaiasjosue548&label=Profile%20views&color=0e75b6&style=flat" alt="isaiasjosue548" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaiasjosue548" alt="isaiasjosue548" /></a> </p>
-
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Redux, Typescript, Algorithms**

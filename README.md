@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaias Josue</h1>
 <h3 align="center">A passionate frontend developer living in Spain</h3>
 
-- 🔭 I’m currently working on **Journal app**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Redux, Typescript, Algorithms**
 
